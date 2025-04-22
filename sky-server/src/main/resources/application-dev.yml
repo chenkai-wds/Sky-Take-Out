@@ -11,3 +11,8 @@ sky:
     access-key-id: {your access-key-id}
     access-key-secret: {your access-key-secret}
     bucket-name: {your bucket-name}
+  redis:
+    host: {your redis host}
+    port: {your redis port}
+    password: {your redis password}
+    database: {your redis database}
